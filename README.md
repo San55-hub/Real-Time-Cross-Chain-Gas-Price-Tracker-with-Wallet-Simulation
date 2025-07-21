@@ -64,8 +64,6 @@ gas-tracker/
 
 
 
-MIT License - use it however you want!
 
 ---
 
-**Perfect for beginners** - Simple, clean, and educational! 🎓
